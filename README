@@ -13,6 +13,8 @@ This layout was popularized by Paul Gorodyansky
 
 http://winrus.com/kbd_e.htm#phon
 
+In Ubuntu 12.04 they have Russian (photonetic WinKeys) that coincides with mine.
+
 The differences are well shown in /usr/share/X11/xkb/symbols/ru (Ubuntu keys layout file)
 
     key	<LatX> {	[     Cyrillic_ha,     Cyrillic_HA	]	};
